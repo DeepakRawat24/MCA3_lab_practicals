@@ -1,6 +1,0 @@
-   Programs on Supervised Learning
-             1.   Write an interactive program to predict the home prices using Regression.
-                2.   Write a program to demonstrate the use of Logistic Regression for analyzing datasets.
-                3.   Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample. 
-               4.  Write a program to implement the K-NN algorithm for a sample dataset stored as .CSV file. Compute the accuracy of the classifier.
-               5.  Write a program to implement the Naïve Bayesian classifier for a sample training data set stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets.
